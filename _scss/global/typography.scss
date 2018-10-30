@@ -1,0 +1,48 @@
+
+input,
+textarea,
+select,
+button,
+label,
+p,
+dd,
+dt,
+li,
+fieldset,
+legend,
+body {
+  font-family: $base-font-stack;
+  line-height: $base-line-height;
+  letter-spacing: $base-letter-spacing;
+  font-weight: $base-font-weight;
+  font-size: $base-font-size;
+  color: $base-font-color;
+}
+
+
+a {
+  color: $base-link-color;
+  transition: color 0.1s ease;
+
+  &:hover {
+    color: lighten($base-link-color, 5%);
+  }
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+td,
+th,
+tr {
+  line-height: $base-line-height * 1.5;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.text--center { text-align: center; }
+.text--left { text-align: left; }
+.text--right { text-align: right; }

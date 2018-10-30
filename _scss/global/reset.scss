@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+html {
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  height: 100%;
+  min-height: 100%;
+  background-color: $body-background-color;
+}
+
+ul,
+ol,
+dl {
+  margin-bottom: 1em;
+}
+
+li,
+dd {
+  list-style-position: outside;
+  margin-left: 2em;
+  display: list-item;
+}
+
+dt {
+  margin-bottom: 1em;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

@@ -1,0 +1,40 @@
+$panel-padding: 2em;
+
+.panel {
+  border-radius: $base-border-radius;
+  background-color: $panel-bg-color;
+  box-shadow: 0px 0px 5px #eee;
+  width: 100%;
+
+  .panel {
+    box-shadow: none;
+  }
+}
+
+.panel__header,
+.panel__body,
+.panel__footer {
+  @extend .grid;
+}
+
+.panel__header {
+  padding: $panel-padding $panel-padding ($panel-padding / 2) ;
+}
+
+.panel__body {
+  padding: ($panel-padding / 2) $panel-padding;
+
+}
+.panel__footer {
+  padding: ($panel-padding / 2) $panel-padding $panel-padding;
+}
+
+.panel--inset {
+  box-shadow: inset 0 0 10px #eee;
+  background-color: darken($panel-bg-color, 5%);
+}
+
+.panel--ghost {
+  background-color: transparent;
+  box-shadow: none;
+}

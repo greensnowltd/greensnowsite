@@ -1,0 +1,19 @@
+.contact {
+  background-image: url('/assets/images/tribe.jpg');
+  background-position: center center;
+  border-top: 2px solid #000;
+}
+
+.contact__title {
+  @extend .text--center;
+  margin: 1em 0;
+}
+
+.contact__message {
+  min-height: 10em;
+}
+
+.contact__submit {
+  display: block;
+  margin: 1em auto;
+}

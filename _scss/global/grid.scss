@@ -1,0 +1,99 @@
+$columns: 12;
+$column-margin: 2em;
+
+.page-wrapper {
+  display: flex;
+  flex-flow: column;  
+  min-height: 100%;
+  // max-width: 1440px;
+  margin: 0 auto;
+
+  > * {
+    flex-grow: 1;
+  }
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+   flex-direction: row;
+}
+
+// Styling to optionally pad a grid and it's children
+@mixin grid-padding() {
+  padding: ($column-margin / 2);
+  margin: 0 -($column-margin / 2);
+
+  > * {
+    border: ($column-margin / 2) solid transparent;
+    background-clip: padding-box;
+  }
+}
+
+// Breakpoint specific classes for controlling child width
+@mixin breakpoint-grow($breakpoint) {
+  .#{$breakpoint}--grow-1 { flex-grow: 1; }
+  .#{$breakpoint}--grow-2 { flex-grow: 2; }
+  .#{$breakpoint}--grow-3 { flex-grow: 3; }
+  .#{$breakpoint}--grow-4 { flex-grow: 4; }
+}
+
+// Breakpoint specific classes for reordering grid children
+@mixin breakpoint-order($breakpoint) {
+  .#{$breakpoint}--order-1 { order: 1; }
+  .#{$breakpoint}--order-2 { order: 2; }
+  .#{$breakpoint}--order-3 { order: 3; }
+  .#{$breakpoint}--order-4 { order: 4; }
+}
+
+// Converts column count to a percentage
+@function get-column-width($colspan) {
+  @return (100 / $columns) * $colspan;
+}
+
+// Sets column widths
+@mixin grid-column($i) {
+  flex-basis: #{get-column-width($i) + '%'};
+  max-width: #{get-column-width($i) + '%'};
+}
+
+// Sets push margins
+@mixin push-column($i) {
+  margin-left: #{get-column-width($i) + '%'};
+}
+// Breakpoint specific column classes
+@mixin breakpoint-columns($breakpoint, $i) {
+  .#{$breakpoint}--#{$i} {
+    @include grid-column($i);
+  }
+  .#{$breakpoint}--push-#{$i} {
+    @include push-column($i);
+  }
+}
+
+// Include all required grid classes at a breakpoint level
+@mixin breakpoint-grid-classes($breakpoint) {
+  .grid--#{$breakpoint}-padded {
+    @include grid-padding();
+  }
+
+  @include breakpoint-grow($breakpoint);
+  @include breakpoint-order($breakpoint);
+
+  @for $i from 1 through $columns {
+    @include breakpoint-columns($breakpoint, $i);
+  }
+}
+
+// Small Displays
+@include breakpoint-grid-classes('sm');
+
+//Medium Displays
+@include for-tablet-portrait-up {
+  @include breakpoint-grid-classes('md');
+}
+
+//Large Displays
+@include for-desktop-up {
+  @include breakpoint-grid-classes('lg');
+}

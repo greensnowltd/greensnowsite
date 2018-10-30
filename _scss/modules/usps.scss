@@ -1,0 +1,21 @@
+.usps {
+  background-color: #000;
+}
+
+.usps__title {
+  @extend .text--center;
+  color: #fff;
+  margin: 2em 0;
+}
+
+.usp__icon {
+  max-width: 100px;
+  margin: 0 auto 1em;
+  display: block;
+}
+
+.usps__para {
+  @extend .text--center;
+  color: #fff;
+  font-weight: bold;
+}

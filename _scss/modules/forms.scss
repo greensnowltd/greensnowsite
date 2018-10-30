@@ -1,0 +1,94 @@
+form, .form {
+  width: 100%;
+}
+
+input,
+textarea {
+  border: none;
+  box-shadow: none;
+  width: 100%;
+  padding: 1em;
+  border: 2px solid #000;
+  background-color: transparent;
+  font-weight: bold;
+
+  &:focus,
+  &:active {
+    outline: none;
+  }
+}
+
+fieldset {
+  border: none;
+}
+
+.form__input-wrapper {
+  @extend .grid;
+  width: 100%;
+  margin-bottom: 1em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.form__input-label {
+  padding: 1em 0;
+  padding-right: 1em;
+}
+
+.form__input {
+  padding: 1em;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+.form__input--email,
+.form__input--text {
+  @extend .form__input;
+}
+
+.form__input--textarea {
+  @extend .form__input;
+  min-height: 150px;
+}
+
+.form__validation-icon > * {
+  display: none;
+  transition: opacity 0.1s;
+  padding: 1em;
+}
+
+
+.form__input-feedback {
+  padding: 1em 0;
+  color: $color-form-error;
+
+}
+
+.form__input--valid {
+  .ti-check {
+    display: block;
+    color: $color-form-success;
+  }
+}
+
+.form__input--invalid {
+  .ti-na {
+    display: block;
+    color: $color-form-error;
+  }
+}
+
+@include for-tablet-portrait-up {
+
+  .form__input-label {
+    padding: 1em;
+    text-align: right;
+  }
+
+  .form__input-feedback {
+    padding: 1em;
+  }
+  
+}
