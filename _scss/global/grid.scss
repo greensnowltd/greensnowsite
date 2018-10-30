@@ -19,10 +19,13 @@ $column-margin: 2em;
    flex-direction: row;
 }
 
+.grid--h-center {
+  justify-content: center;
+}
+
 // Styling to optionally pad a grid and it's children
 @mixin grid-padding() {
   padding: ($column-margin / 2);
-  margin: 0 -($column-margin / 2);
 
   > * {
     border: ($column-margin / 2) solid transparent;
