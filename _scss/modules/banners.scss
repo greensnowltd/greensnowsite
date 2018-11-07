@@ -1,0 +1,8 @@
+.banner--mobile { display: block; }
+.banner--desktop { display: none; }
+
+
+@include for-desktop-up {
+  .banner--mobile { display: none; }
+  .banner--desktop { display: block; }
+}

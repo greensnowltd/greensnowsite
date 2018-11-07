@@ -32,7 +32,6 @@ a {
 p {
   margin-bottom: 1em;
   color: #fff;
-  font-weight: bold;
 }
 
 td,
@@ -48,3 +47,10 @@ dt {
 .text--center { text-align: center; }
 .text--left { text-align: left; }
 .text--right { text-align: right; }
+
+.text--large { font-size: 1.4em; }
+
+
+@include for-desktop-up {
+  .text--large { font-size: 2em; }
+}
