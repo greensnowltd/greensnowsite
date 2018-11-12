@@ -2,7 +2,7 @@
 .banner--desktop { display: none; }
 
 
-@include for-desktop-up {
+@include for-tablet-portrait-up {
   .banner--mobile { display: none; }
   .banner--desktop { display: block; }
 }
