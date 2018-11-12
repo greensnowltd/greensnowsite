@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,600" />
+    <link rel="stylesheet" href="assets/themify-icons.css" />
+    <link rel="stylesheet" href="assets/drawer.min.css" />
+    <link rel="stylesheet" href="assets/main.css" />
+
+    <!-- jquery & iScroll -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
+    <!-- drawer.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script>
+
+    <title>{{ page.title }}</title>
+  </head>
+  <body class="drawer drawer--right">
+    <div class="page-wrapper">
+      <header role="banner">
+        <button type="button" class="drawer-toggle drawer-hamburger">
+          <span class="sr-only">toggle navigation</span>
+          <span class="drawer-hamburger-icon"></span>
+        </button>
+        <nav class="drawer-nav" role="navigation">
+          <ul class="drawer-menu">
+            {% for item in site.menus.header %}
+              <li class="menu-item-{{ loop.index }}">
+                <a  class="drawer-menu-item" href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </header>
+      <!--USPS-->
+      <div class="grid page-content">
+        <div class="grid__item sm--12 md--10 md--push-1 lg--8 lg--push-2">
+          {{ page.content }}
+        </div>
+      </div>
+      <div class="grid contact">
+        <div class="grid__item sm--12 md--10 md--push-1 lg--6 lg--push-3">
+          <form class="grid grid--sm-padded">
+            <div class="grid__item sm--12">
+              <h2 class="contact__title">Contact Us</h2>
+            </div>
+            <div class="grid__item sm--12 lg--6">
+              <input type="text" placeholder="Name" />
+            </div>
+            <div class="grid__item sm--12 lg--6">
+              <input type="email" placeholder="Email" />
+            </div>
+            <div class="grid__item sm--12">
+              <textarea class="contact__message" placeholder="Message"></textarea>
+            </div>
+            <div class="grid__item sm--12">
+              <button type="submit" class="btn btn--primary contact__submit">Send Message</button>
+            </div>
+          </form>
+          <footer class="grid">
+            <div class="grid__item sm--12">
+              <p>Copyright &copy; Green Snow Limited 2018</p>
+            </div>
+          </footer>
+        </div>
+      </div>
+    </div>
+    <script>
+      $(document).ready(function() {
+        $('.drawer').drawer();
+      });
+    </script>
+  </body>
+</html>
