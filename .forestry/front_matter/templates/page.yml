@@ -13,3 +13,5 @@ fields:
       format: html-blocks
   label: Page Content
   name: page_content
+pages:
+- environment.md
