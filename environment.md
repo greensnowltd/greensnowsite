@@ -38,6 +38,9 @@ page_content: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
   fermentum cursus. Nulla facilisi. Donec mattis, odio a pulvinar aliquam, libero
   elit hendrerit elit, posuere mattis purus ipsum id nisl. Maecenas mattis turpis
   quis enim gravida rutrum. In consequat eget odio et venenatis.</p>"
+menu:
+  header:
+    weight: 2
 published: false
 
 ---
