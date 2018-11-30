@@ -13,5 +13,10 @@ fields:
       format: html-blocks
   label: Page Content
   name: page_content
+- type: text
+  hidden: true
+  label: layout
+  name: layout
+  default: page
 pages:
 - environment.md
