@@ -18,5 +18,3 @@ fields:
   label: layout
   name: layout
   default: page
-pages:
-- environment.md
