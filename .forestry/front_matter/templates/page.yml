@@ -19,4 +19,5 @@ fields:
   name: layout
   default: page
 pages:
+- about.md
 - environment.md
