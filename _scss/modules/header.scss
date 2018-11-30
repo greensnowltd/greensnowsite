@@ -7,5 +7,61 @@
 }
 
 .header-logo {
-  display: inline-block;
+  float: left;
+  padding: 13px 10px 12px;
+}
+
+.mobile-header {
+  display: block;
+  height: 55px;
+}
+
+header {
+  background-color: #000;
+  position: fixed;
+  width: 100%;
+  z-index: 20;
+}
+
+.desktop-header {
+  display: none;
+  overflow: hidden;
+
+  .logo {
+  }
+
+  ul {
+    float: right;
+    padding: 20px;
+    margin: 0;
+  }
+
+  li {
+    float: left;
+    list-style-type: none;
+    margin: 0;
+
+    a {
+      padding: 10px 30px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #fff;
+
+      &:hover {
+        color: $base-link-color;
+      }
+    }
+  }
+}
+
+@include for-tablet-portrait-up {
+
+  .mobile-header {
+    display: none;
+  }
+
+  .desktop-header {
+    display: block;
+  }
+
 }

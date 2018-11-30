@@ -1,5 +1,5 @@
 .banner--mobile { display: block; }
-.banner--desktop { display: none; }
+.banner--desktop { display: none; width: 100%; }
 
 
 @include for-tablet-portrait-up {
