@@ -8,6 +8,7 @@
   font-weight: bold;
   text-decoration: none;
   border-radius: $base-border-radius;
+  margin-bottom: 2px;
 
   &:hover {
     background-color: lighten($btn-default-bg-color, 5%);
