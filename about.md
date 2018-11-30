@@ -16,6 +16,5 @@ page_content: |-
 menu:
   header:
     weight: 1
-published: false
 
 ---
