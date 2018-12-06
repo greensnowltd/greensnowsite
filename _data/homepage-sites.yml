@@ -1,11 +1,11 @@
 ---
-- name: CHPT3
-  desc: Creative design house imagined by ex-pro David Millar, with premium collaborations
-    including Castelli, Brompton Bicycles, POC Sports, Factor + More.
-  image: "/uploads/chpt3.jpg"
+- name: Rouleur.cc
+  desc: The world's finest road cycling journal for the most discerning rider bringing
+    news from inside the peloton, world class events and online Rouleur Emporium.
+  image: "/uploads/rouleur.jpg"
   links:
-  - label: Visit CHPT3.com
-    url: http://chpt3.com
+  - label: Visit Rouleur.cc
+    url: https://rouleur.cc/
 - name: Team GB
   desc: Representing the British Olympic Association with the official Team GB store
     building up to the 2020 Olympics in Japan and beyond.
@@ -33,3 +33,10 @@
     url: https://www.globaltrinetwork.com/
   - label: EMBN
     url: https://www.embn.com/
+- name: CHPT3
+  desc: Creative design house imagined by ex-pro David Millar, with premium collaborations
+    including Castelli, Brompton Bicycles, POC Sports, Factor + More.
+  image: "/uploads/chpt3.jpg"
+  links:
+  - label: Visit CHPT3.com
+    url: http://chpt3.com
