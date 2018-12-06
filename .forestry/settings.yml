@@ -10,6 +10,9 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: document
+  label: Sites
+  path: _data/settings.yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
