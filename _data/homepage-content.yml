@@ -1,18 +1,29 @@
-lead_paragraph: We deliver an end-to-end e-commerce management service. We build customer-focused online retail experiences that are designed to delight our partners’ customers and appeal directly to their passions.
-first_paragraph: We’re great at what we do because we’ve created a unique approach, which is born out of our own love for brands and the great outdoors. This tailored, fan-focused approach to online retail management has helped us develop some of the best loved niche online retail brands in the world.
-second_paragraph: For us, it’s all about selling high quality, ethically made accessories and clothing, which align perfectly to your brand values and make your fans proud to wear your marque.
+---
+lead_paragraph: We deliver an end-to-end e-commerce management service. We build customer-focused
+  online retail experiences that are designed to delight our partners’ customers and
+  appeal directly to their passions.
+first_paragraph: We’re great at what we do because we’ve created a unique approach,
+  which is born out of our own love for brands and the great outdoors. This tailored,
+  fan-focused approach to online retail management has helped us develop some of the
+  best loved niche online retail brands in the world.
+second_paragraph: For us, it’s all about selling high quality, ethically made accessories
+  and clothing, which align perfectly to your brand values and make your fans proud
+  to wear your marque.
 desktop_image: "/uploads/gs-hero-1.jpg"
 mobile_image: "/uploads/gs-hero-mobile.jpg"
-usp_title: We're your complete end-to-end online retail partner.
+usp_title: We're your complete end-to-end online retail partner
 usps:
-  - description: We build and maintain user-friendly, customer-focused e-commerce sites
-    image: "/uploads/devices.svg"
-  - description: We design and produce a range of quality, responsibly sourced products and manage the supply chain on your behalf.
-    image: "/uploads/ideas.svg"
-  - description: We hold stock and globally distribute to customers, managing all the logistics along the way.
-    image: "/uploads/stock.svg"   
-  - description: We also manage your customer service and we are passionate about keeping your customers delighted.
-    image: "/uploads/support.svg"
-  - description: We deliver comprehensive management and reporting of accounts.
-    image: "/uploads/presentation.svg"
+- image: "/uploads/devices.svg"
+  description: We build and maintain user-friendly, customer-focused e-commerce sites
+- image: "/uploads/ideas.svg"
+  description: We design and produce a range of quality, responsibly sourced products
+    and manage the supply chain on your behalf.
+- image: "/uploads/stock.svg"
+  description: We hold stock and globally distribute to customers, managing all the
+    logistics along the way.
+- image: "/uploads/support.svg"
+  description: We also manage your customer service and we are passionate about keeping
+    your customers delighted.
+- image: "/uploads/presentation.svg"
+  description: We deliver comprehensive management and reporting of accounts.
 usp_footer: You can focus on running your business, while we take of care of the retail
