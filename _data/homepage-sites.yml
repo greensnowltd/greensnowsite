@@ -3,4 +3,4 @@
   image: team-gb.jpg
   links:
     - label: Visit Team GB Shop
-    - link: https://shop.teamgb.com/
+    - btn-url: https://shop.teamgb.com/
