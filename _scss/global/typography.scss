@@ -50,6 +50,13 @@ dt {
 
 .text--large { font-size: 1.4em; }
 
+.page-content {
+  h1:after,
+  h3:after {
+    content: '.';
+    color: #09AF94;
+  }
+}
 
 @include for-desktop-up {
   .text--large { font-size: 2em; }

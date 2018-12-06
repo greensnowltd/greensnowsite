@@ -6,6 +6,11 @@
   @extend .text--center;
   color: #fff;
   margin: 2em 0;
+
+  &:after {
+    content: '.';
+    color: #09AF94;
+  }
 }
 
 .usp__icon {
