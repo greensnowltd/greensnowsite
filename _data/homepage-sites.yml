@@ -1,4 +1,11 @@
 ---
+- name: CHPT3
+  desc: Creative design house imagined by ex-pro David Millar, with premium collaborations
+    including Castelli, Brompton Bicycles, POC Sports, Factor + More.
+  image: "/uploads/chpt3.jpg"
+  links:
+  - label: Visit CHPT3.com
+    url: http://chpt3.com
 - name: Team GB
   desc: Representing the British Olympic Association with the official Team GB store
     building up to the 2020 Olympics in Japan and beyond.
