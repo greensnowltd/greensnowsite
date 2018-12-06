@@ -1,6 +1,15 @@
+---
+- name: Team Sky
+  desc: Britain's most successful cycling team with 6 grand tour victories in the
+    last 7 years, and the most widely support professional cycling team in the world.
+  image: "/uploads/team-sky.jpg"
+  links:
+  - label: Visit Team Sky Store
+    url: http://store.teamsky.com
 - name: Team GB
-  desc: Representing the British Olympic Association with the official Team GB store building up to the 2020 Olympics in Japan and beyond.
+  desc: Representing the British Olympic Association with the official Team GB store
+    building up to the 2020 Olympics in Japan and beyond.
   image: team-gb.jpg
   links:
-    - label: Visit Team GB Shop
-      url: https://shop.teamgb.com/
+  - label: Visit Team GB Shop
+    url: https://shop.teamgb.com/
