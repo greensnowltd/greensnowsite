@@ -5,14 +5,14 @@ desktop_image: "/uploads/gs-hero-1.jpg"
 mobile_image: "/uploads/gs-hero-mobile.jpg"
 usp_title: We're your complete end-to-end online retail partner.
 usps:
-  - image: "/uploads/devices.svg"
-    description: We build and maintain user-friendly, customer-focused e-commerce sites
-  - image: "/uploads/ideas.svg"
-    description: We design and produce a range of quality, responsibly sourced products and manage the supply chain on your behalf.
-  - image: "/uploads/stock.svg"
-    description: We hold stock and globally distribute to customers, managing all the logistics along the way.
-  - image: "/uploads/support.svg"
-    description: We also manage your customer service and we are passionate about keeping your customers delighted.
-  - image: "/uploads/presentation.svg"
-    description: We deliver comprehensive management and reporting of accounts.
+  - description: We build and maintain user-friendly, customer-focused e-commerce sites
+    image: "/uploads/devices.svg"
+  - description: We design and produce a range of quality, responsibly sourced products and manage the supply chain on your behalf.
+    image: "/uploads/ideas.svg"
+  - description: We hold stock and globally distribute to customers, managing all the logistics along the way.
+    image: "/uploads/stock.svg"   
+  - description: We also manage your customer service and we are passionate about keeping your customers delighted.
+    image: "/uploads/support.svg"
+  - description: We deliver comprehensive management and reporting of accounts.
+    image: "/uploads/presentation.svg"
 usp_footer: You can focus on running your business, while we take of care of the retail
