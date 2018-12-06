@@ -11,6 +11,9 @@ sections:
   label: Posts
   create: all
 - type: document
+  path: _data/homepage-content.yml
+  label: Homepage Content
+- type: document
   path: _data/homepage-sites.yml
   label: Sites
 upload_dir: uploads
