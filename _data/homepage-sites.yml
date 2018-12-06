@@ -1,11 +1,4 @@
 ---
-- name: Rouleur.cc
-  desc: The world's finest road cycling journal for the most discerning rider bringing
-    news from inside the peloton, world class events and online Rouleur Emporium.
-  image: "/uploads/rouleur.jpg"
-  links:
-  - label: Visit Rouleur.cc
-    url: https://rouleur.cc/
 - name: Team GB
   desc: Representing the British Olympic Association with the official Team GB store
     building up to the 2020 Olympics in Japan and beyond.
@@ -40,3 +33,17 @@
   links:
   - label: Visit CHPT3.com
     url: http://chpt3.com
+- name: Rouleur.cc
+  desc: The world's finest road cycling journal for the most discerning rider bringing
+    news from inside the peloton, world class events and online Rouleur Emporium.
+  image: "/uploads/rouleur.jpg"
+  links:
+  - label: Visit Rouleur.cc
+    url: https://rouleur.cc/
+- name: Curtains
+  desc: A collection of curtain related ecommerce business across sheers, boutique
+    commercial and mass market window coverings.
+  image: "/uploads/curtains.jpg"
+  links:
+  - url: https://lovemywindow.com/
+    label: LoveMyWindow
