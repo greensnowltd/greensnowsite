@@ -1,5 +1,4 @@
 .contact {
-  background-image: url('/assets/images/tribe.jpg');
   background-position: center center;
   background-size: cover;
 }
@@ -7,6 +6,11 @@
 .contact__title {
   @extend .text--center;
   margin: 1em 0;
+
+  &:after {
+    content: '.';
+    color: #09AF94;
+  }
 }
 
 .contact__message {
