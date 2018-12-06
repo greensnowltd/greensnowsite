@@ -112,11 +112,11 @@
         {% for site in site.data.homepage-sites %}
           <div class="grid__item sm--12 lg--6">
             <div class="portfolio__item">
-              <div class="portfolio__background" style="background-image: url('uploads/{{ site.image }}')"></div>
+              <div class="portfolio__background" style="background-image: url('{{ site.image }}')"></div>
               <div class="portfolio__content grid">
                 <div class="grid__item sm--10 lg--7">
                   <h3 class="portfolio__title">{{ site.name }}</h3>
-                  <p class="portfolio__para">{{ site.description }}</p>
+                  <p class="portfolio__para">{{ site.desc }}</p>
                   {% for link in site.links %}
                     <a href="{{ link.url }}" class="btn btn--primary">{{ link.label }}</a>
                   {% endfor %}
