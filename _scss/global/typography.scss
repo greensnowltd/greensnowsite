@@ -51,6 +51,11 @@ dt {
 .text--large { font-size: 1.4em; }
 
 .page-content {
+
+  p {
+    color: #000;
+  }
+  
   h1:after,
   h3:after {
     content: '.';
