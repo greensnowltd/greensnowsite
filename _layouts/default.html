@@ -15,7 +15,7 @@
     <!-- drawer.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script>
 
-    <title>{{ page.title }}</title>
+    <title>Green Snow Ltd - {{ page.title }}</title>
   </head>
   <body class="drawer drawer--right">
     <div class="page-wrapper">
@@ -56,8 +56,8 @@
       <!--HERO-->
       <div class="grid hero">
         <div class="grid__item sm--12">
-          <img class="banner--desktop" src="assets/images/gs-hero-1.jpg" />
-          <img class="banner--mobile" src="assets/images/gs-hero-mobile.jpg" />
+          <img class="banner--desktop" src="{{ site.data.homepage-content.desktop_image }}" />
+          <img class="banner--mobile" src="{{ site.data.homepage-content.mobile_image }}" />
         </div>
       </div>
       <!--USPS-->
@@ -65,14 +65,13 @@
         <div class="grid__item sm--12 md--10 md--push-1 lg--8 lg--push-2">
           <div class="grid grid--sm-padded grid--h-center">
             <div class="grid__item sm--12">
-              <p class="text--large"><strong>We deliver an end-to-end e-commerce management service. We build customer-focused online retail experiences that are designed to delight our partners’ customers and appeal directly to their passions.</strong></p>
+              <p class="text--large"><strong>{{ site.data.homepage-content.lead_paragraph }}</strong></p>
             </div>
             <div class="grid__item sm--12 md--6">
-              <p>We’re great at what we do because we’ve created a unique approach, which is born out of our own
-              love for brands and the great outdoors. This tailored, fan-focused approach to online retail management has helped us develop some of the best loved niche online retail brands in the world.</p>
+              <p>{{ site.data.homepage-content.first_paragraph }}</p>
             </div>
             <div class="grid__item sm--12 md--6">
-              <p>For us, it’s all about selling high quality, ethically made accessories and clothing, which align perfectly to your brand values and make your fans proud to wear your marque.</p>
+              <p>{{ site.data.homepage-content.second_paragraph }}</p>
             </div>
           </div>
         </div>
