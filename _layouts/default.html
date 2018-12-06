@@ -109,6 +109,11 @@
       </div>
       <!-- PORTFOLIO -->
       <div class="grid portfolio">
+        <script>
+          {% for site in site.data.homepage-sites %}
+            '{{ site.name }}'
+          {% endfor %}
+        </script>
         <div class="grid__item sm--12 lg--6">
           <div class="portfolio__item">
             <div class="portfolio__background" style="background-image: url('assets/images/team-gb.jpg')"></div>
