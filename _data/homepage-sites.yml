@@ -1,11 +1,4 @@
 ---
-- name: Team Sky
-  desc: Britain's most successful cycling team with 6 grand tour victories in the
-    last 7 years, and the most widely support professional cycling team in the world.
-  image: "/uploads/team-sky.jpg"
-  links:
-  - label: Visit Team Sky Store
-    url: http://store.teamsky.com
 - name: Team GB
   desc: Representing the British Olympic Association with the official Team GB store
     building up to the 2020 Olympics in Japan and beyond.
@@ -13,3 +6,23 @@
   links:
   - label: Visit Team GB Shop
     url: https://shop.teamgb.com/
+- name: Team Sky
+  desc: Britain's most successful cycling team with 6 grand tour victories in the
+    last 7 years, and the most widely support professional cycling team in the world.
+  image: "/uploads/team-sky.jpg"
+  links:
+  - label: Visit Team Sky Store
+    url: http://store.teamsky.com
+- name: Play Sports Network
+  desc: With tens of millions of video views every month across various social media
+    channels they are the world’s biggest cycling media outlet.
+  image: "/uploads/psn.jpg"
+  links:
+  - label: GCN
+    url: https://www.globalcyclingnetwork.com/
+  - label: GMBN
+    url: https://www.gmbn.com/
+  - label: GTN
+    url: https://www.globaltrinetwork.com/
+  - label: EMBN
+    url: https://www.embn.com/
