@@ -27,3 +27,4 @@ usps:
 - image: "/uploads/presentation.svg"
   description: We deliver comprehensive management and reporting of accounts.
 usp_footer: You can focus on running your business, while we take of care of the retail
+footer_background_image: "/uploads/tribe.jpg"
