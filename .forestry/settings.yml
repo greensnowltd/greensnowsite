@@ -11,8 +11,8 @@ sections:
   label: Posts
   create: all
 - type: document
-  label: Sites
   path: _data/homepage-sites.yml
+  label: Sites
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
