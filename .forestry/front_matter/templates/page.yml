@@ -19,5 +19,6 @@ fields:
   name: layout
   default: page
 pages:
+- thanks.md
 - about.md
 - environment.md
