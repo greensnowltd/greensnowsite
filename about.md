@@ -15,7 +15,7 @@ We’re great at what we do because we’ve created a unique approach, which is 
 
 For us, it’s all about selling high quality, ethically made accessories and clothing, which align perfectly to your brand values and make your fans proud to wear your marque.
 
-### **The nuts and bolts;**
+### **The nuts and bolts**
 
 • We’re your complete end-to-end online retail partner.
 
@@ -27,19 +27,17 @@ For us, it’s all about selling high quality, ethically made accessories and cl
 
 • We also manage your customer service and we are passionate about
 
-keeping your customers delighted, as we know it is a vital ingredient for
-
-continuous growth.
+keeping your customers delighted, as we know it is a vital ingredient for continuous growth.
 
 • You can focus on running your business, while we take care of the retail.
 
 • We deliver comprehensive management and reporting of accounts.
 
-We exist to create the ultimate fan-focused online retail environments for brands to thrive in. We work hard on behalf of our brand partners to convert their followers into high value customers and we do it in a way that minimises our impact on the planet. 
+We exist to create the ultimate fan-focused online retail environments for brands to thrive in. We work hard on behalf of our brand partners to convert their followers into high value customers and we do it in a way that minimises our impact on the planet.
 
-We’re a principled lot at Green Snow with strong values. That’s what separates us from the crowd. We have 4 core values that hold true across everything we do, every single day.
+We’re a principled lot at Green Snow with strong values. That’s what separates us from the crowd. We have **4 core values** that hold true across everything we do, every single day.
 
-### **Do the right thing.**
+### **1. Do the right thing**
 
 • Your customer is the centre of our universe.
 
@@ -47,13 +45,13 @@ We’re a principled lot at Green Snow with strong values. That’s what separat
 
 • We go the extra mile to ensure the experience your fans have in your online store deepens their love for your brand.
 
-• We will never work with brands that don’t share our own high standards and product  expectations.
+• We will never work with brands that don’t share our own high standards and product expectations.
 
 • We live and breathe the brands we represent.
 
 • We lead by example and reduce the environmental impact in all that we do.
 
-### **Be true to your roots.**
+### **Be true to your roots**
 
 • We make your online retail an extension of your brand values.
 
@@ -65,7 +63,7 @@ We’re a principled lot at Green Snow with strong values. That’s what separat
 
 • We believe in the brands we work with and represent them through every tiny touch point that they have with their customers.
 
-### **Leave a small footprint.**
+### **Leave a small footprint**
 
 We are environmentally aware, passionately anti-plastic and actively engaged.
 
@@ -77,7 +75,7 @@ We are environmentally aware, passionately anti-plastic and actively engaged.
 
 • We believe that it is our duty to conduct every element of our business in a way that has a positive impact on society and does not damage the environment.
 
-### **Keep it personal.**
+### **Keep it personal**
 
 • We always treat customers the way we want to be treated ourselves.
 
