@@ -28,8 +28,8 @@
   - label: EMBN
     url: https://www.embn.com/
 - name: CHPT3
-  desc: CHPT3 is the laboratory for the cycling industry. Current collaborations include
-    Brompton, Brooks, Castelli, Fabric, Factor, and POC.
+  desc: 'CHPT3 is the laboratory for the cycling industry. Current collaborations
+    include Brompton, Brooks, Castelli, Fabric, Factor, and POC. '
   image: "/uploads/chpt3.jpg"
   links:
   - label: Visit CHPT3.com
