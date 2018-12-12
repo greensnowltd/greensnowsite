@@ -25,9 +25,7 @@ For us, it’s all about selling high quality, ethically made accessories and cl
 
 • We hold stock and globally distribute to customers, managing all the logistics along the way.
 
-• We also manage your customer service and we are passionate about
-
-keeping your customers delighted, as we know it is a vital ingredient for continuous growth.
+• We also manage your customer service and we are passionate about keeping your customers delighted, as we know it is a vital ingredient for continuous growth.
 
 • You can focus on running your business, while we take care of the retail.
 
@@ -65,7 +63,7 @@ We’re a principled lot at Green Snow with strong values. That’s what separat
 
 ### **Leave a small footprint**
 
-We are environmentally aware, passionately anti-plastic and actively engaged.
+• We are environmentally aware, passionately anti-plastic and actively engaged.
 
 • We will adopt environmentally friendly packaging for our own products and work hard to influence the supply chain from within.
 
