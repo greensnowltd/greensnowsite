@@ -16,7 +16,7 @@
 - name: Play Sports Network
   desc: 'The Play Sports Network is the world’s leading community of cycling fans
     and has a truly global reach with millions of cyclists per month enjoying content
-    from their channels.  '
+    from their channels. '
   image: "/uploads/psn.jpg"
   links:
   - label: GCN
