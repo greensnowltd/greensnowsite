@@ -14,8 +14,9 @@
   - label: Visit Team Sky Store
     url: http://store.teamsky.com
 - name: Play Sports Network
-  desc: With tens of millions of video views every month across various social media
-    channels they are the world’s biggest cycling media outlet.
+  desc: The Play Sports Network is the world’s leading community of cycling fans and
+    has a truly global reach with millions of cyclists per month enjoying content
+    from their channels.
   image: "/uploads/psn.jpg"
   links:
   - label: GCN
