@@ -9,28 +9,6 @@ menu:
     weight: 1
 
 ---
-We deliver an end-to-end e-commerce management service.  We build customer-focused online retail experiences that are designed to delight our partners’ customers and appeal directly to their passions.
-
-We’re great at what we do because we’ve created a unique approach, which is born out of our own love for brands and the great outdoors. This tailored, fan-focused approach to online retail management has helped us develop some of the best loved niche online retail brands in the world.
-
-For us, it’s all about selling high quality, ethically made accessories and clothing, which align perfectly to your brand values and make your fans proud to wear your marque.
-
-### **The nuts and bolts**
-
-• We’re your complete end-to-end online retail partner.
-
-• We build and maintain user-friendly, customer-focused e-commerce sites.
-
-• We design and produce a range of quality, responsibly sourced, products and manage the full supply chain on your behalf.
-
-• We hold stock and globally distribute to customers, managing all the logistics along the way.
-
-• We also manage your customer service and we are passionate about keeping your customers delighted, as we know it is a vital ingredient for continuous growth.
-
-• You can focus on running your business, while we take care of the retail.
-
-• We deliver comprehensive management and reporting of accounts.
-
 We exist to create the ultimate fan-focused online retail environments for brands to thrive in. We work hard on behalf of our brand partners to convert their followers into high value customers and we do it in a way that minimises our impact on the planet.
 
 We’re a principled lot at Green Snow with strong values. That’s what separates us from the crowd. We have **4 core values** that hold true across everything we do, every single day.
