@@ -13,7 +13,7 @@ We exist to create the ultimate fan-focused online retail environments for brand
 
 We’re a principled lot at Green Snow with strong values. That’s what separates us from the crowd. We have **4 core values** that hold true across everything we do, every single day.
 
-### **1. Do the right thing**
+### **Do the right thing**
 
 • Your customer is the centre of our universe.
 
