@@ -4,7 +4,6 @@ layout: page
 date: 2018-11-30 14:51:41 +0000
 page_title: Join the Team
 page_content: "### "
-published: false
 
 ---
 ### Want to join the team at Green Snow?
