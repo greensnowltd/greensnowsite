@@ -12,7 +12,7 @@ We are a growing company so if you have experience working within our field, whe
 
 Otherwise, when we do have a particular vacancy we will list it below.  All applicants should send a covering email along with their CV to team@greensnow.co.uk.
 
-#### Current Vacancies
+### Current Vacancies
 
 **Ecommerce Developer - Magento / Shopify**
 
@@ -42,3 +42,7 @@ Key Skills
 * Reliable and hardworking, you must be willing to step up to challenges when needed
 * Someone willing to develop their skills and career in a dynamic, expanding ecommerce business.
 * A good sense of humour and someone ready to get stuck in and join a fun, hardworking team!
+
+If the above sounds like you, then we look forward to hearing from you.
+
+### We're in your corner
