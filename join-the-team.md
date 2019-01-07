@@ -7,36 +7,52 @@ page_content: "### "
 published: false
 
 ---
-### Green Snow Thinking
+### Want to join the team at Green Snow?
 
-When our client’s customers and fans receive an order despatched by Green Snow the impact is strong. From the paper bag, cardboard box or bio-degradable bag, to the kraft recycled postcard carrying their message, and the distinct lack of any single-use plastic inside, it makes people stop, think and appreciate what they’ve received.
+We have a hard working, dynamic and entrepreneurial team, based in our offices in Cadnam in the New Forest.  We have excellent transport links as we are just off Junction 1 of the M27 but also right on the door step of the New Forest National Park. We look after our staff, rewarding creativity, encouraging free-thinking and working together to grow and improve both the company and the individual.    We love working with people that share our values and believes in our strategy that want to be part of something unique and exciting, whilst willing to put in the hard work and graft to make it happen.
 
-Over time we have become increasingly aware of our effect on the environment. We want to lead by example and minimise the impact we have on the planet. We absolutely believe taking care of the environment is everyone's responsibility, including our staff and our customers.
+We are a growing company so if you have experience working within our field, whether that is related to our core ecommerce offering, or supporting one our business in the Sports, Cycling or Fabric industry, please drop us an email with your CV to see if there are roles coming up that you may be suited to.
 
-We are constantly evolving and improving how we work and what we do, and while we have full control of our own actions and products, we are also constantly pushing our supply chain to follow our lead and commit to cleaner and more sustainable operations. This is a marathon, but we are setting PB’s every day and will continue to do so.
+Otherwise, when we do have a particular vacancy we will list it below.  All applicants should send a covering email along with their CV to team@greensnow.co.uk.
 
-We…
+## Current Vacancies
 
-* Are engaged in effecting positive, environmental change through our activities at work
-* Are responsible, accountable and ethical in all our actions and thinking
-* Use environmentally friendly packaging on everything within our control
-* Are passionate about eliminating single-use, plastic items across the operation
-* Encourage our staff to enjoy a healthy and sustainable lifestyle that leaves the planet in a better and more stable condition for future generations.
-* Are currently exploring opportunities to partner with a relevant charity and we pro-actively support [Sky's Ocean Rescue campaign](https://skyoceanrescue.com/) through our links with the [Team Sky cycling team](https://www.teamsky.com/).
+**Ecommerce Developer - Magento / Shopify**
 
- 
+Full time 40 hours per week, Monday - Friday.
 
-### ACTIONS SPEAK LOUDER THAN WORDS
+This is an opportunity for an experienced PHP developer to strike the perfect balance between working for a client and an agency. Your time will be shared across 3-4 long term business relationships, working within the ecommerce team of Green Snow. You will see the full impact of your work, and will be able to work on projects for the long term, while still varying your workload between some very different projects. 
 
-We avoid plastics altogether where we can, and we are making sure that we only use bio-plastic when we really need to. By reducing the plastic in one small area of our operation, in a year alone we will be able to save over 26,000 single use plastic bags. 
+There will be continued development of new Magento 2 sites. Delivering a road map of user experience and operational enhancements to the Magento System. This includes configuring and customising extensions and creating custom code. Acting as technical lead for the project and assisting the ecommerce team on the optimisation of the project.    You will also be involved in a migration from M1 to M2, liaising with our off-shore development team where appropriate.
 
-And whilst we are winding down any remaining stocks of plastic packaging, we now only re-order bio-degradable or recycled alternatives. We are taking this approach across the business, finding creative solutions to have a positive impact on our planet across everything we do.
+In addition there will be development and optimisation of our Shopify sites, testing, learning and optimising, ensuring we use our insight appropriately to roll out improvements across the various sites to suit each client and audience.
 
-With the ambition to only use bio-degradable and/or 100 per-cent recycled and recyclable paper bags to ship orders, we have already…
+You will have gained experience working with Magento and Shopify, either during your previous job, a work placement or in your own time. You will be comfortable building and maintaining a site on your own, and comfortable making decisions and installing your own working practices. At the same time, there will be support from a team very comfortable working with both platforms and very comfortable ensuring developers are well supported and given the time and resources to develop their own knowledge. 
 
-* Replaced all plastic tape with secure paper-based tape
-* Stopped including any single use plastic giveaways in our client’s customer orders.
-* Removed all bubble wrap and other plastic-based internal stuffing
-* Challenged our Operations team with an ongoing project to bring the business to a point where we are doing everything possible to limit our impact on the environment
+The right candidate will also act as technical lead across other business projects, whether it is configuring our order management system (XML script) or new business intelligent tools that look to unify and optmise our internal working practices.   Experience working and integrating multiple business systems will be very useful experience. 
 
-The environmental issues we address are at the heart of the business, and feed through to the decisions we make daily. Whether it is the use of bio soap in the bathroom, sending orders with paper packing tape or simply turning the lights off when we’ve finished in the meeting room, we question everything we do and make sure we do the right thing for us, our partners, and our planet.
+Key Skills
+
+ - Experience with Magento, Shopify and Wordpress.
+
+ - Strong Javascript and CSS
+
+ - The ability to work on front end and back end systems.
+
+ - Preference to use GitHub or similar for version control.
+
+ - The ability to work directly with business users, often with a defined spec, but with occasional fire-fighting. We know in ecommerce it can never be avoided.
+
+ - Experience of working within an Agile methodology, working through regular sprints managed via Kanban. We like to use Trello, Basecamp and Slack.
+
+ - Ability to assist with the technical network infrastructure, AKA be the resident techy.
+
+ - The confidence and independence to be able to manage own work load across a variety of streams.
+
+ - An interest in online shopping and ecommerce. You need to know what good looks like online for a customer too.
+
+ - Reliable and hardworking, you must be willing to step up to challenges when needed
+
+ - Someone willing to develop their skills and career in a dynamic, expanding ecommerce business.
+
+ - A good sense of humour and someone ready to get stuck in and join a fun, hardworking team!
