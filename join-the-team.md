@@ -4,6 +4,10 @@ layout: page
 date: 2018-11-30 14:51:41 +0000
 page_title: Join the team at Green Snow
 page_content: "### "
+menu:
+  header:
+    weight: 3
+    title: Join
 
 ---
 We have a hard working, dynamic and entrepreneurial team, based in our offices in Cadnam in the New Forest.  We have excellent transport links as we are just off Junction 1 of the M27 but also right on the door step of the New Forest National Park. We look after our staff, rewarding creativity, encouraging free-thinking and working together to grow and improve both the company and the individual.    We love working with people that share our values and believes in our strategy that want to be part of something unique and exciting, whilst willing to put in the hard work and graft to make it happen.
