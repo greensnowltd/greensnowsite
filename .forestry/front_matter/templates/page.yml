@@ -1,7 +1,6 @@
 ---
 label: Page
 hide_body: false
-is_partial: false
 fields:
 - type: text
   label: Page Title
@@ -19,7 +18,7 @@ fields:
   name: layout
   default: page
 pages:
-- thanks.md
 - about.md
-- join-the-team.md
 - environment.md
+- thanks.md
+- join-the-team.md

@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-date: 2018-11-30 14:55:40 +0000
+date: '2018-11-30T14:55:40.000+00:00'
 page_title: ''
 page_content: ''
 menu:
@@ -41,15 +41,15 @@ We’re a principled lot at Green Snow with strong values. That’s what separat
 
 ### **Leave a small footprint**
 
-• We are environmentally aware, passionately anti-plastic and actively engaged.
+• We encourage our staff to enjoy a healthy and sustainable lifestyle that leaves the planet in a better and more stable condition for future generations.
+
+• We believe that it is our duty to conduct every element of our business in a way that has a positive impact on society and does not damage the environment.
+
+• We are environmentally aware, always striving to cut down our use of single use plastic, and actively engaged.
 
 • We will adopt environmentally friendly packaging for our own products and work hard to influence the supply chain from within.
 
 • We will proactively encourage all manufacturers we work with to follow our lead, and commit to clean and sustainable growth.
-
-• We encourage our staff to enjoy a healthy and sustainable lifestyle that leaves the planet in a better and more stable condition for future generations.
-
-• We believe that it is our duty to conduct every element of our business in a way that has a positive impact on society and does not damage the environment.
 
 ### **Keep it personal**
 
