@@ -1,7 +1,7 @@
 ---
 title: Environment
 layout: page
-date: 2018-11-30 14:51:41 +0000
+date: '2018-11-30T14:51:41.000+00:00'
 page_title: Environment
 page_content: "### "
 menu:
@@ -24,13 +24,11 @@ We…
 * Use environmentally friendly packaging on everything within our control
 * Are passionate about eliminating single-use, plastic items across the operation
 * Encourage our staff to enjoy a healthy and sustainable lifestyle that leaves the planet in a better and more stable condition for future generations.
-* Are currently exploring opportunities to partner with a relevant charity and we pro-actively support [Sky's Ocean Rescue campaign](https://skyoceanrescue.com/) through our links with the [Team Sky cycling team](https://www.teamsky.com/).
-
- 
+* Are currently exploring opportunities to partner with a relevant charity that we hope to announce later this year
 
 ### ACTIONS SPEAK LOUDER THAN WORDS
 
-We avoid plastics altogether where we can, and we are making sure that we only use bio-plastic when we really need to. By reducing the plastic in one small area of our operation, in a year alone we will be able to save over 26,000 single use plastic bags. 
+We avoid plastics altogether where we can, and we are making sure that we only use bio-plastic when we really need to. By reducing the plastic in one small area of our operation, in a year alone we will be able to save over 26,000 single use plastic bags.
 
 And whilst we are winding down any remaining stocks of plastic packaging, we now only re-order bio-degradable or recycled alternatives. We are taking this approach across the business, finding creative solutions to have a positive impact on our planet across everything we do.
 
