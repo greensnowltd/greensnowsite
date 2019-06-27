@@ -1,12 +1,12 @@
 ---
 title: Join the Team
 layout: page
-date: 2018-11-30 14:51:41 +0000
+date: '2018-11-30T14:51:41.000+00:00'
 page_title: Join the team at Green Snow
 page_content: "### "
 menu:
   header:
-    weight: 3
+    weight: 2
     title: Join
 
 ---

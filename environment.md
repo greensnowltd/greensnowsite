@@ -4,9 +4,6 @@ layout: page
 date: '2018-11-30T14:51:41.000+00:00'
 page_title: Environment
 page_content: "### "
-menu:
-  header:
-    weight: 2
 
 ---
 ### Green Snow Thinking
