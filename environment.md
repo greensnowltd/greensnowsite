@@ -3,10 +3,17 @@ title: Environment
 layout: page
 date: '2018-11-30T14:51:41.000+00:00'
 page_title: Environment
-page_content: "### "
+page_content: "    "
 
 ---
 ### Green Snow Thinking
+
+When our client’s customers and fans receive an order despatched by Green Snow the impact is strong. It makes people stop, think and appreciate what they’ve received.
+
+Over time we have become increasingly aware of our effect on the environment. We want to lead by example and minimise the impact we have on the planet. We absolutely believe taking care of the environment is everyone's responsibility, including our staff and our customers.
+
+
+/**
 
 When our client’s customers and fans receive an order despatched by Green Snow the impact is strong. From the paper bag, cardboard box or bio-degradable bag, to the kraft recycled postcard carrying their message, and the distinct lack of any single-use plastic inside, it makes people stop, think and appreciate what they’ve received.
 
@@ -37,3 +44,5 @@ With the ambition to only use bio-degradable and/or 100 per-cent recycled and re
 * Challenged our Operations team with an ongoing project to bring the business to a point where we are doing everything possible to limit our impact on the environment
 
 The environmental issues we address are at the heart of the business, and feed through to the decisions we make daily. Whether it is the use of bio soap in the bathroom, sending orders with paper packing tape or simply turning the lights off when we’ve finished in the meeting room, we question everything we do and make sure we do the right thing for us, our partners, and our planet.
+
+**/
