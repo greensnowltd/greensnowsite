@@ -53,8 +53,8 @@
     url: https://www.netcurtainsdirect.com/
 - name: Team Sky
   desc: 'Britain''s most successful cycling team with 6 grand tour victories in the
-    last 7 years, the most widely supported professional cycling team in the world. '
-  image: "/uploads/A9R00249_ii4prc.jpg"
+    last 7 years. '
+  image: "/uploads/TeamSky.jpg"
   links:
   - label: Visit Team Sky Store
     url: http://store.teamsky.com
