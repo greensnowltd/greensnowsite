@@ -1,10 +1,4 @@
 ---
-- name: Net Curtains Direct
-  desc: The largest sheer curtain eCommerce website in the world
-  image: "/uploads/ADO_Spring2015_webRGB_C25.jpg"
-  links:
-  - label: Net Curtains Direct
-    url: https://www.netcurtainsdirect.com
 - name: Team INEOS
   desc: The most widely supported professional cycling team in the world
   image: "/uploads/Team-INEOS.jpg"
@@ -52,6 +46,12 @@
   links:
   - label: Visit Rouleur.cc
     url: https://rouleur.cc/
+- name: Net Curtains Direct
+  desc: The largest sheer curtain eCommerce website in the world
+  image: "/uploads/ADO_Spring2015_webRGB_C25.jpg"
+  links:
+  - label: Net Curtains Direct
+    url: https://www.netcurtainsdirect.com
 - name: Love My Window
   desc: 'A collection of market leading e-commerce sites furnishing the commercial
     and boutique sector, as well as the individual homeowner. '
