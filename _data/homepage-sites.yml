@@ -1,10 +1,4 @@
 ---
-- name: Ashmei
-  desc: Produces of the very best performance athletic apparel in the world.
-  image: "/uploads/Ashmei.jpg"
-  links:
-  - label: Visit Ashmei.com
-    url: https://ashmei.com/
 - name: Team INEOS
   desc: The most widely supported professional cycling team in the world
   image: "/uploads/Team-INEOS.jpg"
@@ -39,6 +33,12 @@
   links:
   - label: Visit CHPT3.com
     url: http://chpt3.com
+- name: Ashmei
+  desc: Produces of the very best performance athletic apparel in the world.
+  image: "/uploads/Ashmei.jpg"
+  links:
+  - label: Visit Ashmei.com
+    url: https://ashmei.com/
 - name: Rouleur.cc
   desc: The world's finest road cycling journal, the award winning Rouleur Classic
     events.
@@ -46,7 +46,7 @@
   links:
   - label: Visit Rouleur.cc
     url: https://rouleur.cc/
-- name: Curtains
+- name: Love My Window
   desc: 'A collection of market leading e-commerce sites furnishing the commercial
     and boutique sector, as well as the individual homeowner. '
   image: "/uploads/curtains.jpg"
@@ -55,12 +55,3 @@
     label: LoveMyWindow
   - label: Fencasa
     url: http://fencasa.com/
-  - label: NetCurtainsDirect
-    url: https://www.netcurtainsdirect.com/
-- name: Team Sky
-  desc: 'Britain''s most successful cycling team with 6 grand tour victories in the
-    last 7 years. '
-  image: "/uploads/TeamSky.jpg"
-  links:
-  - label: Visit Team Sky Store
-    url: http://store.teamsky.com
