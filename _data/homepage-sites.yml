@@ -1,4 +1,12 @@
 ---
+- name: Ashmei
+  desc: Produces of the very best performance athletic apparel in the world.
+  image: "/uploads/Ashmei.jpg"
+  links:
+  - label: Visit Ashmei.com
+    url: https://ashmei.com/
+  - label: ''
+    url: ''
 - name: Team INEOS
   desc: The most widely supported professional cycling team in the world
   image: "/uploads/Team-INEOS.jpg"
