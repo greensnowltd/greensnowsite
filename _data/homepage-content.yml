@@ -16,8 +16,8 @@ usps:
 - image: "/uploads/devices.svg"
   description: We build and maintain user-friendly, customer-focused e-commerce sites
 - image: "/uploads/ideas.svg"
-  description: We design and produce a range of quality, responsibly sourced products
-    and manage the supply chain on your behalf.
+  description: We design and produce a range of high quality products and manage the
+    supply chain on your behalf.
 - image: "/uploads/stock.svg"
   description: We hold stock and globally distribute to customers, managing all the
     logistics along the way.
