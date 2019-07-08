@@ -9,7 +9,7 @@ menu:
     weight: 1
 
 ---
-We exist to create the ultimate fan-focused online retail environments for brands to thrive in. We work hard on behalf of our brand partners to convert their followers into high value customers and we do it in a way that minimises our impact on the planet.
+We exist to create the ultimate fan-focused online retail environments for brands to thrive in. We work hard on behalf of our brand partners to convert their followers into high value customers, aligning ourselves with our partners, to be a true extension to your team.
 
 We’re a principled lot at Green Snow with strong values. That’s what separates us from the crowd. We have **4 core values** that hold true across everything we do, every single day.
 
@@ -43,13 +43,11 @@ We’re a principled lot at Green Snow with strong values. That’s what separat
 
 • We encourage our staff to enjoy a healthy and sustainable lifestyle that leaves the planet in a better and more stable condition for future generations.
 
-• We believe that it is our duty to conduct every element of our business in a way that has a positive impact on society and does not damage the environment.
+• We provide fan abundance of free fruit for staff, and actively encourage exercise wherever possible
 
-• We are environmentally aware, always striving to cut down our use of single use plastic, and actively engaged.
+• We believe that it is our duty to conduct every element of our business in a way that has a positive impact on society 
 
-• We will adopt environmentally friendly packaging for our own products and work hard to influence the supply chain from within.
-
-• We will proactively encourage all manufacturers we work with to follow our lead, and commit to clean and sustainable growth.
+• We are environmentally aware and actively engaged in the outdoors.
 
 ### **Keep it personal**
 
