@@ -1,4 +1,11 @@
 ---
+- name: Green Snow Outlet
+  desc: Exclusive offers on premium brand sports and cycle clothing with big discounts
+    from 30-80% off.
+  image: "/uploads/920x920.jpg"
+  links:
+  - label: Visit Outlet
+    url: https://greensnow.cc
 - name: INEOS 1:59 Challenge
   desc: Supporting Eliud Kipchoge be the first Human to run a sub-2 hour marathon
     in 01:59:40 In Vienna, on 12th October 2019
