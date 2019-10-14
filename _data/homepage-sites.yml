@@ -1,4 +1,11 @@
 ---
+- name: INEOS 1:59 Challenge
+  desc: Supporting Eliud Kipchoge be the first Human to run a sub-2 hour marathon
+    in 01:59:40 In Vienna, on 12th October 2019
+  image: "/uploads/j0fvsxzetnxigwct15x9.jpg"
+  links:
+  - label: Official Store
+    url: https://store.ineos159challenge.com/
 - name: Team INEOS
   desc: The most widely supported professional cycling team in the world
   image: "/uploads/Team-INEOS.jpg"
