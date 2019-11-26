@@ -10,11 +10,15 @@ menu:
     title: Join
 
 ---
+![](/uploads/MVIMG_20190326_174431.jpg)
+
 We have a hard working, dynamic and entrepreneurial team, based in our offices in Ower in the New Forest.  We have excellent transport links as we are just off Junction 2 of the M27 but also right on the door step of the New Forest National Park. We look after our staff, rewarding creativity, encouraging free-thinking and working together to grow and improve both the company and the individual.    We love working with people that share our values and believes in our strategy that want to be part of something unique and exciting, whilst willing to put in the hard work and graft to make it happen.
 
 We are a growing company so if you have experience working within our field, whether that is related to our core ecommerce offering, or supporting one our business in the Sports, Cycling or Fabric industry, please drop us an email with your CV to see if there are roles coming up that you may be suited to.
 
 Otherwise, when we do have a particular vacancy we will list it below.  All applicants should send a covering email along with their CV to team@greensnow.co.uk
+
+![](/uploads/break.jpg)  
 
 ### Current Vacancies
 
@@ -27,6 +31,51 @@ Working across our portfolio of brands, designing apparel for screen print, DTG 
 You will be involved in the full product development cycle, from base product selection, to design, swing tags, labels and packaging. We work across a number of brands, so a very varied and hopefully very interesting for the right individual. 
 
 You will have an exception flare for design, experience working within structured brand guidelines, and ready to multi-task across a variety of projects right from the start.  You're probably the kind of person that has a passion for clothing, brands and fashion, and either has commercial experience, or your own side project with product design. If you love the outdoors, sports and lifestyle brands you will be right at home with our team and partners.
+
+![](/uploads/break.jpg)
+
+**Digital Marketing Executive**
+
+Full time 40 hours per week, Monday - Friday.
+
+We are looking for an experienced Digital Marketing Executive to assist in the planning, execution and optimization of our online marketing efforts across several brands/websites.
+
+The ideal candidate will have a passion for all things marketing and technology. You will be well-versed in the concepts surrounding digital marketing and how the Internet can become a strong asset to securing growing revenue across the whole digital marketing mix. You need to be tech-savvy and intuitive, with great ideas to reinforce your marketing campaigns, as well as having an eCommerce/online retail background and reasonable awareness of eCommerce platforms and marketplaces like Magento, Shopify, Amazon and eBay.
+
+Being able to design and create banners and digital adverts would be an advantage, so a creative streak will really impress.
+
+**Responsibilities**
+
+* Assist in the formulation of strategies to build a lasting digital connection with consumers
+* Develop content plans, schedule and upload
+* Plan and monitor ongoing presence of our brands on social media (Insta, Twitter, Facebook etc.)
+* Plan and prepare promotional emails and organize their distribution through various channels, including automating them across all brands
+* Launch optimized, paid adverts through Google Ads, Facebook/Insta etc. driving targeted acquisition and revenue and to increase our brands awareness in their specific markets
+* Be actively involved in SEO efforts (keyword research, image optimization etc.)
+* Measure performance of digital marketing activity using a variety of Web analytics tools
+* Report, interpret and action results, and share actionable insights across teams
+* Provide creative ideas for content marketing and updating of websites
+* Collaborate with designers/agencies when required
+
+**Requirements**
+
+* Proven experience as Digital Marketing Executive or similar role
+* Excellent understanding of digital marketing concepts and best practices
+* Demonstrable experience with B2C social media, Google Adwords, email marketing and SEO/SEM for growth and revenue
+* Excellent knowledge of web analytics tools (e.g. Google Analytics/Search Console/Google Tag Manager)
+* Skills and experience in creative content – written and visual
+* Have strong IT skills including MS Office and Photoshop
+* Understanding of eCRM techniques and experience working with ESPs
+* Excellent communication skills, both written and verbal
+* Highly committed, and can work to urgent deadlines, until the job is done
+* Analytical mindset and critical thinking are key
+* A natural problem solver with a can-do attitude with genuine initiative
+* Team player
+* At least 3 years’ experience, preferably within the same company
+* BSc/BA in marketing or closely relevant field (QBE will be considered)
+* IDM/CIM membership/qualifications (not essential)
+
+![](/uploads/break.jpg)
 
  
 
