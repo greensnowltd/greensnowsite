@@ -10,7 +10,7 @@ menu:
     title: Join
 
 ---
-![](/uploads/join-image.jpg)
+![](/uploads/Join the team.jpg)
 
 We have a hard working, dynamic and entrepreneurial team, based in our offices in Ower in the New Forest.  We have excellent transport links as we are just off Junction 2 of the M27 but also right on the door step of the New Forest National Park. We look after our staff, rewarding creativity, encouraging free-thinking and working together to grow and improve both the company and the individual.    We love working with people that share our values and believes in our strategy that want to be part of something unique and exciting, whilst willing to put in the hard work and graft to make it happen.
 
