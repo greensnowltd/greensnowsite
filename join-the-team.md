@@ -14,11 +14,9 @@ menu:
 
 We have a hard working, dynamic and entrepreneurial team, based in our offices in Ower in the New Forest.  We have excellent transport links as we are just off Junction 2 of the M27 but also right on the door step of the New Forest National Park. We look after our staff, rewarding creativity, encouraging free-thinking and working together to grow and improve both the company and the individual.    We love working with people that share our values and believes in our strategy that want to be part of something unique and exciting, whilst willing to put in the hard work and graft to make it happen.
 
-We are a growing company so if you have experience working within our field, whether that is related to our core ecommerce offering, or supporting one our business in the Sports, Cycling or Fabric industry, please drop us an email with your CV to see if there are roles coming up that you may be suited to.
+Our current vacancies are listed below.   All applicants should send a covering email along with their CV to team@greensnow.co.uk.   
 
-Otherwise, when we do have a particular vacancy we will list it below.  All applicants should send a covering email along with their CV to team@greensnow.co.uk
-
-![](/uploads/break.jpg)  
+  
 
 ### Current Vacancies
 
