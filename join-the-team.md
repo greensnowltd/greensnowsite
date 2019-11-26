@@ -14,9 +14,7 @@ We have a hard working, dynamic and entrepreneurial team, based in our offices i
 
 We are a growing company so if you have experience working within our field, whether that is related to our core ecommerce offering, or supporting one our business in the Sports, Cycling or Fabric industry, please drop us an email with your CV to see if there are roles coming up that you may be suited to.
 
-Otherwise, when we do have a particular vacancy we will list it below.  All applicants should send a covering email along with their CV to team@greensnow.co.uk.
-
-    <hr>
+Otherwise, when we do have a particular vacancy we will list it below.  All applicants should send a covering email along with their CV to team@greensnow.co.uk
 
 ### Current Vacancies
 
@@ -31,8 +29,6 @@ You will be involved in the full product development cycle, from base product se
 You will have an exception flare for design, experience working within structured brand guidelines, and ready to multi-task across a variety of projects right from the start.  You're probably the kind of person that has a passion for clothing, brands and fashion, and either has commercial experience, or your own side project with product design. If you love the outdoors, sports and lifestyle brands you will be right at home with our team and partners.
 
  
-
-    <hr>
 
 **Ecommerce Developer - Magento / Shopify**
 
