@@ -12,9 +12,7 @@ menu:
 ---
 ![](/uploads/Join the team.jpg)
 
-We have a hard working, dynamic and entrepreneurial team, based in our offices in Ower in the New Forest.  We have excellent transport links as we are just off Junction 2 of the M27 but also right on the door step of the New Forest National Park. We look after our staff, rewarding creativity, encouraging free-thinking and working together to grow and improve both the company and the individual.    We love working with people that share our values and believes in our strategy that want to be part of something unique and exciting, whilst willing to put in the hard work and graft to make it happen.
-
-Our current vacancies are listed below.   All applicants should send a covering email along with their CV to team@greensnow.co.uk.   
+Our current vacancies are listed below.   All applicants should send a covering email along with their CV to team@greensnow.co.uk.
 
 ### Current Vacancies
 
@@ -22,9 +20,9 @@ Our current vacancies are listed below.   All applicants should send a covering 
 
 Full time 40 hours per week, Monday - Friday.
 
-Working across our portfolio of brands, designing apparel for screen print, DTG and  embellishment, including clothing, soft goods and accessories.  
+Working across our portfolio of brands, designing apparel for screen print, DTG and  embellishment, including clothing, soft goods and accessories.
 
-You will be involved in the full product development cycle, from base product selection, to design, swing tags, labels and packaging. We work across a number of brands, so a very varied and hopefully very interesting for the right individual. 
+You will be involved in the full product development cycle, from base product selection, to design, swing tags, labels and packaging. We work across a number of brands, so a very varied and hopefully very interesting for the right individual.
 
 You will have an exception flare for design, experience working within structured brand guidelines, and ready to multi-task across a variety of projects right from the start.  You're probably the kind of person that has a passion for clothing, brands and fashion, and either has commercial experience, or your own side project with product design. If you love the outdoors, sports and lifestyle brands you will be right at home with our team and partners.
 
@@ -72,8 +70,6 @@ Being able to design and create banners and digital adverts would be an advantag
 * IDM/CIM membership/qualifications (not essential)
 
 ![](/uploads/break.jpg)
-
- 
 
 **Ecommerce Developer - Magento / Shopify**
 
