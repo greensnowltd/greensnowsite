@@ -16,8 +16,6 @@ We have a hard working, dynamic and entrepreneurial team, based in our offices i
 
 Our current vacancies are listed below.   All applicants should send a covering email along with their CV to team@greensnow.co.uk.   
 
-  
-
 ### Current Vacancies
 
 **Graphic Designer for Apparel & Accessories**
