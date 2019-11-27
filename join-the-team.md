@@ -24,7 +24,7 @@ Working across our portfolio of brands, designing apparel for screen print, DTG 
 
 You will be involved in the full product development cycle, from base product selection, to design, swing tags, labels and packaging. We work across a number of brands, so a very varied and hopefully very interesting for the right individual.
 
-You will have an exception flare for design, experience working within structured brand guidelines, and ready to multi-task across a variety of projects right from the start.  You're probably the kind of person that has a passion for clothing, brands and fashion, and either has commercial experience, or your own side project with product design. If you love the outdoors, sports and lifestyle brands you will be right at home with our team and partners.
+You will have an exceptional flare for design, experience working within structured brand guidelines, and ready to multi-task across a variety of projects right from the start.  You're probably the kind of person that has a passion for clothing, brands and fashion, and either has commercial experience, or your own side project with product design. If you love the outdoors, sports and lifestyle brands you will be right at home with our team and partners.
 
 ![](/uploads/break.jpg)
 
