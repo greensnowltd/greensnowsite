@@ -27,6 +27,12 @@
     url: https://www.globaltrinetwork.com/
   - label: EMBN
     url: https://www.embn.com/
+- name: Team INEOS
+  desc: The most widely supported professional cycling team in the world
+  image: "/uploads/Team-INEOS.jpg"
+  links:
+  - label: Team INEOS Store
+    url: https://store.teamineos.com/
 - name: CHPT3
   desc: CHPT3 is the laboratory for the cycling industry. Current collaborations include
     Brompton, Brooks, Castelli, Fabric, Factor, and POC.
@@ -34,12 +40,12 @@
   links:
   - label: Visit CHPT3.com
     url: http://chpt3.com
-- name: Team INEOS
-  desc: The most widely supported professional cycling team in the world
-  image: "/uploads/Team-INEOS.jpg"
+- name: Ashmei
+  desc: Produces of the very best performance athletic apparel in the world.
+  image: "/uploads/Ashmei.jpg"
   links:
-  - label: Team INEOS Store
-    url: https://store.teamineos.com/
+  - label: Visit Ashmei.com
+    url: https://ashmei.com/
 - name: Dr. Vegan
   desc: A range of the highest quality ethical supplements, sourced from responsible
     and sustainable producers who meet strict ecological standards, formulated using
@@ -48,19 +54,6 @@
   links:
   - label: Dr. Vegan.co.uk
     url: https://drvegan.com/
-- name: Green Snow Outlet
-  desc: Exclusive offers on premium brand sports and cycle clothing with big discounts
-    from 30-80% off.
-  image: "/uploads/920x920.jpg"
-  links:
-  - label: Visit Outlet
-    url: https://greensnow.cc
-- name: Ashmei
-  desc: Produces of the very best performance athletic apparel in the world.
-  image: "/uploads/Ashmei.jpg"
-  links:
-  - label: Visit Ashmei.com
-    url: https://ashmei.com/
 - name: Rouleur.cc
   desc: The world's finest road cycling journal, the award winning Rouleur Classic
     events.
@@ -68,13 +61,6 @@
   links:
   - label: Visit Rouleur.cc
     url: https://rouleur.cc/
-- name: INEOS 1:59 Challenge
-  desc: Supporting Eliud Kipchoge be the first Human to run a sub-2 hour marathon
-    in 01:59:40 In Vienna, on 12th October 2019
-  image: "/uploads/j0fvsxzetnxigwct15x9.jpg"
-  links:
-  - label: Official Store
-    url: https://store.ineos159challenge.com/
 - name: Net Curtains Direct
   desc: The largest sheer curtain eCommerce website in the world
   image: "/uploads/ADO_Spring2015_webRGB_C25.jpg"
@@ -90,3 +76,17 @@
     label: LoveMyWindow
   - label: Fencasa
     url: http://fencasa.com/
+- name: INEOS 1:59 Challenge
+  desc: Supporting Eliud Kipchoge be the first Human to run a sub-2 hour marathon
+    in 01:59:40 In Vienna, on 12th October 2019
+  image: "/uploads/j0fvsxzetnxigwct15x9.jpg"
+  links:
+  - label: Official Store
+    url: https://store.ineos159challenge.com/
+- name: Green Snow Outlet
+  desc: Exclusive offers on premium brand sports and cycle clothing with big discounts
+    from 30-80% off.
+  image: "/uploads/920x920.jpg"
+  links:
+  - label: Visit Outlet
+    url: https://greensnow.cc
