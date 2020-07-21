@@ -1,4 +1,11 @@
 ---
+- name: Solgar
+  desc: 'Solgar provide the finest nutritional supplements with more than 300 products,  trusted
+    by millions of consumers worldwide.   '
+  image: "/uploads/sg_3229_vitaminb12sublingualchewablenuggets_socialq4.jpg"
+  links:
+  - label: Solgar.co.uk
+    url: http://www.solgar.co.uk
 - name: Green Snow Outlet
   desc: Exclusive offers on premium brand sports and cycle clothing with big discounts
     from 30-80% off.
