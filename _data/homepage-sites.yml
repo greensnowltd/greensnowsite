@@ -6,26 +6,6 @@
   links:
   - label: Solgar.co.uk
     url: http://www.solgar.co.uk
-- name: Green Snow Outlet
-  desc: Exclusive offers on premium brand sports and cycle clothing with big discounts
-    from 30-80% off.
-  image: "/uploads/920x920.jpg"
-  links:
-  - label: Visit Outlet
-    url: https://greensnow.cc
-- name: INEOS 1:59 Challenge
-  desc: Supporting Eliud Kipchoge be the first Human to run a sub-2 hour marathon
-    in 01:59:40 In Vienna, on 12th October 2019
-  image: "/uploads/j0fvsxzetnxigwct15x9.jpg"
-  links:
-  - label: Official Store
-    url: https://store.ineos159challenge.com/
-- name: Team INEOS
-  desc: The most widely supported professional cycling team in the world
-  image: "/uploads/Team-INEOS.jpg"
-  links:
-  - label: Team INEOS Store
-    url: https://store.teamineos.com/
 - name: Team GB
   desc: Representing the British Olympic Association with the official Team GB store
     building up to the 2020 Olympics in Japan and beyond.
@@ -33,6 +13,26 @@
   links:
   - label: Visit Team GB Shop
     url: https://shop.teamgb.com/
+- name: Team INEOS
+  desc: The most widely supported professional cycling team in the world
+  image: "/uploads/Team-INEOS.jpg"
+  links:
+  - label: Team INEOS Store
+    url: https://store.teamineos.com/
+- name: INEOS 1:59 Challenge
+  desc: Supporting Eliud Kipchoge be the first Human to run a sub-2 hour marathon
+    in 01:59:40 In Vienna, on 12th October 2019
+  image: "/uploads/j0fvsxzetnxigwct15x9.jpg"
+  links:
+  - label: Official Store
+    url: https://store.ineos159challenge.com/
+- name: Green Snow Outlet
+  desc: Exclusive offers on premium brand sports and cycle clothing with big discounts
+    from 30-80% off.
+  image: "/uploads/920x920.jpg"
+  links:
+  - label: Visit Outlet
+    url: https://greensnow.cc
 - name: Play Sports Network
   desc: 'The Play Sports Network is the world’s leading community of cycling fans
     and has a truly global reach with millions of cyclists per month enjoying content
