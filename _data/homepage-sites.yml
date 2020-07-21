@@ -1,4 +1,12 @@
 ---
+- name: Dr. Vegan
+  desc: A range of the highest quality ethical supplements, sourced from responsible
+    and sustainable producers who meet strict ecological standards, formulated using
+    naturally sourced ingredients to support all diets.
+  image: "/uploads/head_hero2_2048x.jpg"
+  links:
+  - label: Dr. Vegan.co.uk
+    url: https://drvegan.com/
 - name: Solgar
   desc: 'Solgar provide the finest nutritional supplements with more than 300 products,  trusted
     by millions of consumers worldwide.   '
