@@ -16,58 +16,26 @@ Our current vacancies are listed below.   All applicants should send a covering 
 
 ### Current Vacancies
 
-**Graphic Designer for Apparel & Accessories**
+**Warehouse Operative**
 
-Full time 40 hours per week, Monday - Friday.
+Full Time, 40hrs per week.
 
-Working across our portfolio of brands, designing apparel for screen print, DTG and  embellishment, including clothing, soft goods and accessories.
+Based at Green Snow HQ, Ower
 
-You will be involved in the full product development cycle, from base product selection, to design, swing tags, labels and packaging. We work across a number of brands, so a very varied and hopefully very interesting for the right individual.
+Warehouse Operatives (WO) are essential to the company’s day to day running, evolution and growth. It is a key role and WO’s must have ingenuity, organisation, a keen eye for detail, be able to work at ease with Warehouse Management Systems (WMS) and of course as part of a team.
 
-You will have an exceptional flare for design, experience working within structured brand guidelines, and ready to multi-task across a variety of projects right from the start.  You're probably the kind of person that has a passion for clothing, brands and fashion, and either has commercial experience, or your own side project with product design. If you love the outdoors, sports and lifestyle brands you will be right at home with our team and partners.
+Main duties:
 
-![](/uploads/break.jpg)
-
-**Digital Marketing Executive**
-
-Full time 40 hours per week, Monday - Friday.
-
-We are looking for an experienced Digital Marketing Executive to assist in the planning, execution and optimization of our online marketing efforts across several brands/websites.
-
-The ideal candidate will have a passion for all things marketing and technology. You will be well-versed in the concepts surrounding digital marketing and how the Internet can become a strong asset to securing growing revenue across the whole digital marketing mix. You need to be tech-savvy and intuitive, with great ideas to reinforce your marketing campaigns, as well as having an eCommerce/online retail background and reasonable awareness of eCommerce platforms and marketplaces like Magento, Shopify, Amazon and eBay.
-
-Being able to design and create banners and digital adverts would be an advantage, so a creative streak will really impress.
-
-**Responsibilities**
-
-* Assist in the formulation of strategies to build a lasting digital connection with consumers
-* Develop content plans, schedule and upload
-* Plan and monitor ongoing presence of our brands on social media (Insta, Twitter, Facebook etc.)
-* Plan and prepare promotional emails and organize their distribution through various channels, including automating them across all brands
-* Launch optimized, paid adverts through Google Ads, Facebook/Insta etc. driving targeted acquisition and revenue and to increase our brands awareness in their specific markets
-* Be actively involved in SEO efforts (keyword research, image optimization etc.)
-* Measure performance of digital marketing activity using a variety of Web analytics tools
-* Report, interpret and action results, and share actionable insights across teams
-* Provide creative ideas for content marketing and updating of websites
-* Collaborate with designers/agencies when required
-
-**Requirements**
-
-* Proven experience as Digital Marketing Executive or similar role
-* Excellent understanding of digital marketing concepts and best practices
-* Demonstrable experience with B2C social media, Google Adwords, email marketing and SEO/SEM for growth and revenue
-* Excellent knowledge of web analytics tools (e.g. Google Analytics/Search Console/Google Tag Manager)
-* Skills and experience in creative content – written and visual
-* Have strong IT skills including MS Office and Photoshop
-* Understanding of eCRM techniques and experience working with ESPs
-* Excellent communication skills, both written and verbal
-* Highly committed, and can work to urgent deadlines, until the job is done
-* Analytical mindset and critical thinking are key
-* A natural problem solver with a can-do attitude with genuine initiative
-* Team player
-* At least 3 years’ experience, preferably within the same company
-* BSc/BA in marketing or closely relevant field (QBE will be considered)
-* IDM/CIM membership/qualifications (not essential)
+* Picking orders using a hand-held scanner from pick locations and bringing them for packing
+* Packing orders at a packing station. You’ll put products into containers, such as bags and boxes using the correct safety packaging if required, and then seal the containers ready for delivery to customers via Royal Mail or Courier.
+* Ensure orders are packaged and labelled correctly to prevent returned orders.
+* Despatching special orders created by clients – these must be processed with extreme care.
+* Manually booking appropriate courier solution for some orders.
+* Arranging packing and distribution of our monthly subscription club.
+* Being responsible for the WMS being clear and ready to go the following morning. This is not just orders but also all picking locations, handhelds, packing stations (printers loaded with paper) etc
+* Cleaning and maintaining the warehouse and all packing stations as part of a daily routine.
+* Supporting rolling stock taking as required.
+* Health and Safety warehouse compliance.
 
 ![](/uploads/break.jpg)
 
@@ -79,7 +47,7 @@ This is an opportunity for an experienced PHP developer to strike the perfect ba
 
 There will be continued development of new Magento 2 sites. Delivering a road map of user experience and operational enhancements to the Magento System. This includes configuring and customising extensions and creating custom code. Acting as technical lead for the project and assisting the ecommerce team on the optimisation of the project.    You will also be involved in a migration from M1 to M2, liaising with our off-shore development team where appropriate.
 
-In addition there will be development and optimisation of our Shopify sites, testing, learning and optimising, ensuring we use our insight appropriately to roll out improvements across the various sites to suit each client and audience.
+In addition, there will be development and optimisation of our Shopify sites, testing, learning and optimising, ensuring we use our insight appropriately to roll out improvements across the various sites to suit each client and audience.
 
 You will have gained experience working with Magento and Shopify, either during your previous job, a work placement or in your own time. You will be comfortable building and maintaining a site on your own, and comfortable making decisions and installing your own working practices. At the same time, there will be support from a team very comfortable working with both platforms and very comfortable ensuring developers are well supported and given the time and resources to develop their own knowledge.
 
