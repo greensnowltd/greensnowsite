@@ -39,6 +39,50 @@ Main duties:
 
 ![](/uploads/break.jpg)
 
+**Customer Service Advisor**
+
+Full Time, 40hrs per week.
+
+Based at Green Snow HQ, Ower
+
+An exciting opportunity has arisen for an experienced Customer Service Executive to join our friendly and hardworking team. You would be working within a rapidly growing ecommerce business with an exciting future ahead and lots of opportunity for personal development.
+
+Main duties:
+
+● Resolving customer queries via phone - this will include answering customer queries, sample requests, order updates and more
+
+● Resolving customer queries via email in a timely and efficient manner
+
+● Ensuring customers are kept up to date with the progress of orders or queries as and when necessary
+
+● Provide reporting on email volume with insight into performance
+
+● Ensure customer service information on all websites is up to date, well maintained, accurate and effectively managed to reduce initial contact where applicable
+
+● Book in all orders for daily courier collections (occasional)
+
+● Assist with other duties relating to the business as required
+
+**Person Specification:**
+
+● Excellent customer service skills
+
+● A polite and professional telephone manner
+
+● An ability to respond to emails in a polite and friendly manner
+
+● Recent experience within a Customer Service role is essential
+
+● Must be very organised, motivated and able to able to work on your own initiative
+
+● Good Computer skills – including Microsoft Word, Outlook, Excel
+
+\**The right individual will have the chance to develop their skills and expand their remit within a fast growing, very hardworking and productive team. **  
+   
+ Whilst this role is primarily Monday - Friday, any successful applicant may be required to work some weekends or Bank Holidays to cover peak trading periods.
+
+![](/uploads/break.jpg)
+
 **Ecommerce Developer - Magento / Shopify**
 
 Full time 40 hours per week, Monday - Friday.
