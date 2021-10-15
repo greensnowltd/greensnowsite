@@ -16,26 +16,46 @@ Our current vacancies are listed below.   All applicants should send a covering 
 
 ### Current Vacancies
 
-**Warehouse Operative**
+**Workroom/sewing room Assistant**
 
-Full Time, 40hrs per week.
+Fulltime 40 hrs per week Mon-Fri; Part time applications will be considered
 
 Based at Green Snow HQ, Ower
 
-Warehouse Operatives (WO) are essential to the company’s day to day running, evolution and growth. It is a key role and WO’s must have ingenuity, organisation, a keen eye for detail, be able to work at ease with Warehouse Management Systems (WMS) and of course as part of a team.
+This is a key role within a dedicated team. Sewing and curtain making experience is preferred but training can be given.  You will be responsible for many aspects of the workroom and stock room and its administration which has the direct impact on the success and profitability of the company.  You will be actively involved in the key areas of the business and this will lead to substantial interaction with other team members at all levels including senior management.
 
-Main duties:
+**Key Tasks**
 
-* Picking orders using a hand-held scanner from pick locations and bringing them for packing
-* Packing orders at a packing station. You’ll put products into containers, such as bags and boxes using the correct safety packaging if required, and then seal the containers ready for delivery to customers via Royal Mail or Courier.
-* Ensure orders are packaged and labelled correctly to prevent returned orders.
-* Despatching special orders created by clients – these must be processed with extreme care.
-* Manually booking appropriate courier solution for some orders.
-* Arranging packing and distribution of our monthly subscription club.
-* Being responsible for the WMS being clear and ready to go the following morning. This is not just orders but also all picking locations, handhelds, packing stations (printers loaded with paper) etc
-* Cleaning and maintaining the warehouse and all packing stations as part of a daily routine.
-* Supporting rolling stock taking as required.
-* Health and Safety warehouse compliance.
+* Processing and cutting customer orders from order sheets.  Preparing and packing the orders ready for dispatch.
+* Preparing and sewing Made to Measure sheer curtains. 
+* Allocating orders to relevant sections for booking in and dispatch	
+* Working to targets as set out by your supervisor
+* Monitor daily stock information and reporting to the buying team when stock is low or of concern and assist with any stock queries that arise.
+* Provide support to the order department and customer services department on any customer order queries.
+* Maintain a good stock of hardware and net packs.
+* Maintain a high level of housekeeping by ensuring all floor areas are swept, clean and free of clutter and no exits are blocked.
+* All areas are to be kept well stocked up with packaging, label and all other aspects of packing.  Keep stationery tidy and liaise with buying team when stocks are low.
+* To participate in stock counts when scheduled.
+* Complete other ad-hoc tasks as and when requested by your supervisor to support the business.
+
+**Additional Tasks That You May be Required of You**
+
+* Support the other Green Snow Teams in peak sale times and holidays.
+* Work the occasional Saturdays in peak times with a day off in lieu.
+* Train on an industrial sewing machine to help with Made To Measure orders.
+
+**Skills and Attributes**
+
+The ability to manage time and workload independently whilst cope with multiple priorities and the varying demands to meet the business needs.
+
+* The ability to communicate effectively at all levels with team members is essential.
+* Attention to detail is essential.
+* Confidence in cutting fabric accurately.
+* Knowledge of sewing machines and curtains making.
+* Basic computer knowledge.
+* Must have a pleasant helpful and optimistic attitude along with willingness to increase skills and knowledge base.
+* Able to connect with many different types of people and adjust approach accordingly is essential.
+* Have a good awareness of health and safety policies and practise within the role.
 
 ![](/uploads/break.jpg)
 
@@ -47,47 +67,34 @@ Based at Green Snow HQ, Ower
 
 An exciting opportunity has arisen for an experienced Customer Service Executive to join our friendly and hardworking team. You would be working within a rapidly growing ecommerce business with an exciting future ahead and lots of opportunity for personal development.
 
-Main duties:
+**Key Tasks**
 
-● Resolving customer queries via phone - this will include answering customer queries, sample requests, order updates and more
+* Resolving customer queries via phone - this will include answering customer queries, sample requests, order updates and more
+* Resolving customer queries via email in a timely and efficient manner
+* Ensuring customers are kept up to date with the progress of orders or queries as and when necessary
+* Provide reporting on email volume with insight into performance
+* Ensure customer service information on all websites is up to date, well maintained, accurate and effectively managed to reduce initial contact where applicable
+* Book in all orders for daily courier collections (occasional)
+* Assist with other duties relating to the business as required
 
-● Resolving customer queries via email in a timely and efficient manner
+**Skills and Attributes**
 
-● Ensuring customers are kept up to date with the progress of orders or queries as and when necessary
+* Excellent customer service skills
+* A polite and professional telephone manner
+* An ability to respond to emails in a polite and friendly manner
+* Recent experience within a Customer Service role is essential
+* Must be very organised, motivated and able to able to work on your own initiative
+* Good Computer skills – including Microsoft Word, Outlook, Excel
 
-● Provide reporting on email volume with insight into performance
-
-● Ensure customer service information on all websites is up to date, well maintained, accurate and effectively managed to reduce initial contact where applicable
-
-● Book in all orders for daily courier collections (occasional)
-
-● Assist with other duties relating to the business as required
-
-**Person Specification:**
-
-● Excellent customer service skills
-
-● A polite and professional telephone manner
-
-● An ability to respond to emails in a polite and friendly manner
-
-● Recent experience within a Customer Service role is essential
-
-● Must be very organised, motivated and able to able to work on your own initiative
-
-● Good Computer skills – including Microsoft Word, Outlook, Excel
-
-\**The right individual will have the chance to develop their skills and expand their remit within a fast growing, very hardworking and productive team. **  
-   
- Whilst this role is primarily Monday - Friday, any successful applicant may be required to work some weekends or Bank Holidays to cover peak trading periods.
+Whilst this role is primarily Monday - Friday, any successful applicant may be required to work some weekends or Bank Holidays to cover peak trading periods.
 
 ![](/uploads/break.jpg)
 
-**Ecommerce Developer - Magento / Shopify**
+**Ecommerce Developer**
 
 Full time 40 hours per week, Monday - Friday.
 
-This is an opportunity for an experienced PHP developer to strike the perfect balance between working for a client and an agency. Your time will be shared across 3-4 long term business relationships, working within the ecommerce team of Green Snow. You will see the full impact of your work, and will be able to work on projects for the long term, while still varying your workload between some very different projects.
+This is an opportunity for an experienced developer to strike the perfect balance between working for a client and an agency. Your time will be shared across 7-8 clients, working within the ecommerce team of Green Snow. You will see the full impact of your work, and will be able to work on projects for the long term, while still varying it between some very different projects.
 
 There will be continued development of new Magento 2 sites. Delivering a road map of user experience and operational enhancements to the Magento System. This includes configuring and customising extensions and creating custom code. Acting as technical lead for the project and assisting the ecommerce team on the optimisation of the project.    You will also be involved in a migration from M1 to M2, liaising with our off-shore development team where appropriate.
 
@@ -97,15 +104,14 @@ You will have gained experience working with Magento and Shopify, either during 
 
 The right candidate will also act as technical lead across other business projects, whether it is configuring our order management system (XML script) or new business intelligent tools that look to unify and optmise our internal working practices.   Experience working and integrating multiple business systems will be very useful experience.
 
-Key Skills
+**Skills and Attributes**
 
-* Experience with Magento, Shopify and Wordpress.
+* Experience with a broad range of ecommerce platforms
 * Strong Javascript and CSS
 * The ability to work on front end and back end systems.
 * Preference to use GitHub or similar for version control.
 * The ability to work directly with business users, often with a defined spec, but with occasional fire-fighting. We know in ecommerce it can never be avoided.
-* Experience of working within an Agile methodology, working through regular sprints managed via Kanban. We like to use Trello, Basecamp and Slack.
-* Ability to assist with the technical network infrastructure, AKA be the resident techy.
+* Experience of working within an Agile methodology, working through regular sprints managed via Kanban. 
 * The confidence and independence to be able to manage own work load across a variety of streams.
 * An interest in online shopping and ecommerce. You need to know what good looks like online for a customer too.
 * Reliable and hardworking, you must be willing to step up to challenges when needed
@@ -113,5 +119,28 @@ Key Skills
 * A good sense of humour and someone ready to get stuck in and join a fun, hardworking team!
 
 If the above sounds like you, then we look forward to hearing from you.
+
+![](/uploads/break.jpg)  
+
+**Warehouse Operative**
+
+Full Time, 40hrs per week.
+
+Based at Green Snow HQ, Ower
+
+Warehouse Operatives (WO) are essential to the company’s day to day running, evolution and growth. It is a key role and WO’s must have ingenuity, organisation, a keen eye for detail, be able to work at ease with Warehouse Management Systems (WMS) and of course as part of a team.
+
+**Key Tasks**
+
+* Picking orders using a hand-held scanner from pick locations and bringing them for packing
+* Packing orders at a packing station. You’ll put products into containers, such as bags and boxes using the correct safety packaging if required, and then seal the containers ready for delivery to customers via Royal Mail or Courier.
+* Ensure orders are packaged and labelled correctly to prevent returned orders.
+* Despatching special orders created by clients – these must be processed with extreme care.
+* Manually booking appropriate courier solution for some orders.
+* Arranging packing and distribution of our monthly subscription club.
+* Being responsible for the WMS being clear and ready to go the following morning. This is not just orders but also all picking locations, handhelds, packing stations (printers loaded with paper) etc
+* Cleaning and maintaining the warehouse and all packing stations as part of a daily routine.
+* Supporting rolling stock taking as required.
+* Health and Safety warehouse compliance.
 
 ### We're in your corner
