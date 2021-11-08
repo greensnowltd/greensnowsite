@@ -27,12 +27,12 @@
     url: https://www.globaltrinetwork.com/
   - label: EMBN
     url: https://www.embn.com/
-- name: Team INEOS
+- name: Team INEOS Grenadiers
   desc: The most widely supported professional cycling team in the world
   image: "/uploads/cyclingimages-03854-1.jpg"
   links:
-  - label: Team INEOS Store
-    url: https://store.teamineos.com/
+  - label: INEOS Grenadiers Store
+    url: https://store.ineosgrenadiers.com/
 - name: CHPT3
   desc: CHPT3 is the laboratory for the cycling industry. Current collaborations include
     Brompton, Brooks, Castelli, Fabric, Factor, and POC.
