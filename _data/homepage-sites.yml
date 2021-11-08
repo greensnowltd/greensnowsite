@@ -46,14 +46,14 @@
   links:
   - label: Visit Ashmei.com
     url: https://ashmei.com/
-- name: Dr. Vegan
-  desc: A range of the highest quality ethical supplements, sourced from responsible
-    and sustainable producers who meet strict ecological standards, formulated using
-    naturally sourced ingredients to support all diets.
+- name: Rule 28
+  desc: Rule 28 products are the most cost effective upgrades you can make to minimise
+    your drag. Expertly developed and tested in the velodrome and wind tunnel, our
+    products are trusted by the world's fastest cyclists on the track and road.
   image: "/uploads/head_hero2_2048x.jpg"
   links:
-  - label: Dr. Vegan.co.uk
-    url: https://drvegan.com/
+  - label: Rule 28
+    url: https://www.rule28.com/
 - name: Rouleur.cc
   desc: The world's finest road cycling journal, the award winning Rouleur Classic
     events.
