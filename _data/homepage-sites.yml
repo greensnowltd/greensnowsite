@@ -1,4 +1,10 @@
 ---
+- name: Kindora
+  desc: ''
+  image: "/uploads/kindora.jpg"
+  links:
+  - label: Shop Kindora
+    url: https://www.kindora.co.uk/
 - name: Isadore
   desc: 'Isadore Apparel offers premium cycling products made from high quality natural
     and technical materials with an emphasis on functionality, style, ecological approach
