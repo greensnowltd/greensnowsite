@@ -1,4 +1,12 @@
 ---
+- name: Isadore
+  desc: 'Isadore Apparel offers premium cycling products made from high quality natural
+    and technical materials with an emphasis on functionality, style, ecological approach
+    and sustainability.  '
+  image: ''
+  links:
+  - label: Shop Isadore
+    url: https://isadore.com/
 - name: Solgar
   desc: 'Solgar provide the finest nutritional supplements with more than 300 products,  trusted
     by millions of consumers worldwide.   '
