@@ -3,7 +3,7 @@
   desc: 'Isadore Apparel offers premium cycling products made from high quality natural
     and technical materials with an emphasis on functionality, style, ecological approach
     and sustainability.  '
-  image: ''
+  image: "/uploads/isadore.jpg"
   links:
   - label: Shop Isadore
     url: https://isadore.com/
