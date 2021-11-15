@@ -1,6 +1,7 @@
 ---
 - name: Kindora
-  desc: ''
+  desc: 'Discover quality resale and overstock baby and childrens’ goods from the
+    best brands in the world. '
   image: "/uploads/kindora.jpg"
   links:
   - label: Shop Kindora
