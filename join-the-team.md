@@ -12,23 +12,25 @@ menu:
 ---
 ![](/uploads/Join the team.jpg)
 
-Our current vacancies are listed below.   All applicants should send a covering email along with their CV to team@greensnow.co.uk.
+Our current vacancies are listed below.   
+
+**All applicants should send a covering email along with their CV to** [**team@greensnow.co.uk**]()**.**
 
 ### Current Vacancies
 
-**Workroom/sewing room Assistant**
+**Workroom/Sewing Room Assistant**
 
 Fulltime 40 hrs per week Mon-Fri; Part time applications will be considered
 
 Based at Green Snow HQ, Ower
 
-This is a key role within a dedicated team. Sewing and curtain making experience is preferred but training can be given.  You will be responsible for many aspects of the workroom and stock room and its administration which has the direct impact on the success and profitability of the company.  You will be actively involved in the key areas of the business and this will lead to substantial interaction with other team members at all levels including senior management.
+This is a key role within a dedicated team. Sewing and curtain making experience is preferred but training can be given.  You will be involved with many aspects of the workroom and stock room and its administration which has a direct impact on the success and profitability of the company.  
 
 **Key Tasks**
 
 * Processing and cutting customer orders from order sheets.  Preparing and packing the orders ready for dispatch.
-* Preparing and sewing Made to Measure sheer curtains. 
-* Allocating orders to relevant sections for booking in and dispatch	
+* Preparing and sewing Made to Measure sheer curtains (once fully trained).
+* Allocating orders to relevant sections for booking in and dispatch
 * Working to targets as set out by your supervisor
 * Monitor daily stock information and reporting to the buying team when stock is low or of concern and assist with any stock queries that arise.
 * Provide support to the order department and customer services department on any customer order queries.
@@ -111,7 +113,7 @@ The right candidate will also act as technical lead across other business projec
 * The ability to work on front end and back end systems.
 * Preference to use GitHub or similar for version control.
 * The ability to work directly with business users, often with a defined spec, but with occasional fire-fighting. We know in ecommerce it can never be avoided.
-* Experience of working within an Agile methodology, working through regular sprints managed via Kanban. 
+* Experience of working within an Agile methodology, working through regular sprints managed via Kanban.
 * The confidence and independence to be able to manage own work load across a variety of streams.
 * An interest in online shopping and ecommerce. You need to know what good looks like online for a customer too.
 * Reliable and hardworking, you must be willing to step up to challenges when needed
@@ -120,7 +122,7 @@ The right candidate will also act as technical lead across other business projec
 
 If the above sounds like you, then we look forward to hearing from you.
 
-![](/uploads/break.jpg)  
+![](/uploads/break.jpg)
 
 **Warehouse Operative**
 
@@ -142,5 +144,7 @@ Warehouse Operatives (WO) are essential to the company’s day to day running, e
 * Cleaning and maintaining the warehouse and all packing stations as part of a daily routine.
 * Supporting rolling stock taking as required.
 * Health and Safety warehouse compliance.
+
+**All applicants should send a covering email along with their CV to** [**team@greensnow.co.uk**]()**.**
 
 ### We're in your corner
